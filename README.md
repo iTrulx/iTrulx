@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iTrulx
+- 👋 Hi, I’m Jamie
 - 👀 I’m interested in Programming, Computer Science and anything technology related.
 - 🌱 I’m currently learning Java, Python, React Native and Pseudocode.
 - 💞️ Studying a BSc in Computer Science.
