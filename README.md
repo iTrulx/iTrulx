@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iTrulx
 - 👀 I’m interested in Programming, Computer Science and anything technology related.
-- 🌱 I’m currently learning a Bachelor's degree in Computing.
-- 💞️ I’m looking to collaborate on the SantosRP repository.
+- 🌱 I’m currently learning Java, Python, React Native and Pseudocode.
+- 💞️ Studying a BSc in Computer Science.
 - 📫 You can reach me on Discord at iTrulx#8844
 
 <!---
